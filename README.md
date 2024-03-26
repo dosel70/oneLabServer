@@ -5,6 +5,7 @@
 정말 재미있었고, 실제로 결제 서비스 구현을 해보니까 굉장히 신기했고, 백엔드에 더 흥미롭게 다가갈 수 있었다.
 그리고 이 팀프로젝트를 하면서 제일 기억에 남는 것은 기존 팀원 2명이 빠졌지만, 자신감을 잃지않고 팀원들끼리 의기투합하여 
 프로젝트를 완성 시켰다는 점에서 협업이 제일 중요한 것임을 알게되었다.
+### <서버 프로젝트 포트폴리오 PDF>
 <img src="https://github.com/dosel70/oneLabServer/assets/143694489/06ac54f2-ad92-44b6-baba-3d04c0f238f9">
 <img src="https://github.com/dosel70/oneLabServer/assets/143694489/5f31867e-5843-4cfe-b236-d6d82602dde1">
 <img src="https://github.com/dosel70/oneLabServer/assets/143694489/016871bf-15e0-4e64-8bb0-04386ca2a852">
