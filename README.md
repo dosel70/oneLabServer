@@ -39,4 +39,3 @@
 <img src="https://github.com/dosel70/oneLabServer/assets/143694489/a98cc5b5-23c7-42dc-a524-74c939ef1a53">
 <h3>각 회원 유형에 따른 로그아웃 기능을 FlowChart로 나타냈습니다.</h3>
 
-<h1>이상으로 OneLab프로젝트 포트폴리오를 마치겠습니다. 감사합니다😊</h1>
